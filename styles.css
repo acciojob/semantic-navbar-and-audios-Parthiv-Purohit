@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+#main-nav ul
+{
+		list-style : none;
+		    display:flex;
+}
+#main-links li
+{
+		margin-right:10px;
+}
